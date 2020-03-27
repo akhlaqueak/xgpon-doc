@@ -1,0 +1,4 @@
+<map id="ns3::PonFrame" name="ns3::PonFrame">
+<area shape="rect" id="node3" href="$classns3_1_1_xgpon_ds_frame.html" title="The downstream XGPON frame (XGTC Frame plus PSBd). It is allocated from a pool to avoid too many call..." alt="" coords="5,155,148,181"/>
+<area shape="rect" id="node4" href="$classns3_1_1_xgpon_us_burst.html" title="The upstream XGPON burst (XGTC burst plus PSBu). " alt="" coords="173,155,309,181"/>
+</map>

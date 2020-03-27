@@ -1,0 +1,4 @@
+<map id="ns3::XgponConnection" name="ns3::XgponConnection">
+<area shape="rect" id="node3" href="$classns3_1_1_xgpon_connection_receiver.html" title="The connection maintained at receiver&#45;side. Its main function is to reassemble the segmentations of t..." alt="" coords="5,155,212,181"/>
+<area shape="rect" id="node4" href="$classns3_1_1_xgpon_connection_sender.html" title="The connection maintained at sender&#45;side. It has a queue to hold the packets from upper layers..." alt="" coords="237,155,431,181"/>
+</map>

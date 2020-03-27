@@ -1,0 +1,11 @@
+<map id="ns3::XgponOnuEngine" name="ns3::XgponOnuEngine">
+<area shape="rect" id="node3" href="$classns3_1_1_xgpon_onu_conn_manager.html" title="The class used to manage the downstream and upstream connections (T&#45;CONT) at ONU side. It&#39;s one abstract class and there are subclasses designed for flexibility or speed. " alt="" coords="316,45,509,71"/>
+<area shape="rect" id="node6" href="$classns3_1_1_xgpon_onu_dba_engine.html" title="The class used to instantiate DBA functions of XG&#45;PON at ONU side. It is responsible to report queue ..." alt="" coords="325,95,501,122"/>
+<area shape="rect" id="node7" href="$classns3_1_1_xgpon_onu_framing_engine.html" title="ns3::XgponOnuFramingEngine" alt="" coords="313,146,512,173"/>
+<area shape="rect" id="node8" href="$classns3_1_1_xgpon_onu_omci_engine.html" title="OMCI Engine at ONU&#45;side. Currently, we just implement the interfaces. " alt="" coords="321,197,504,223"/>
+<area shape="rect" id="node9" href="$classns3_1_1_xgpon_onu_phy_adapter.html" title="PHY and PHY&#45;adaptation layers at ONU&#45;side. " alt="" coords="323,247,503,274"/>
+<area shape="rect" id="node10" href="$classns3_1_1_xgpon_onu_ploam_engine.html" title="The class used to instantiate PLOAM messages related functions of XG&#45;PON at ONU side. It maintains the ONU&#39;s related information. Currently, we just implement the interface of this class. " alt="" coords="318,298,507,325"/>
+<area shape="rect" id="node11" href="$classns3_1_1_xgpon_onu_xgem_engine.html" title="The class is just used to parse and generate xgem lists at ONU side. When producing the payload of up..." alt="" coords="319,349,506,375"/>
+<area shape="rect" id="node4" href="$classns3_1_1_xgpon_onu_conn_manager_flexible.html" title="The class instantiates XgponOnuConnManager. It does not impose any relationship between alloc&#45;id..." alt="" coords="560,5,753,47"/>
+<area shape="rect" id="node5" href="$classns3_1_1_xgpon_onu_conn_manager_speed.html" title="The class instantiates XgponOnuConnManager. It does impose several relationship between alloc&#45;id..." alt="" coords="560,71,753,112"/>
+</map>

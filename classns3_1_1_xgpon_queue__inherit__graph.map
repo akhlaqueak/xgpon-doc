@@ -1,0 +1,3 @@
+<map id="ns3::XgponQueue" name="ns3::XgponQueue">
+<area shape="rect" id="node3" href="$classns3_1_1_xgpon_fifo_queue.html" title="The FIFO queue used for each XG&#45;PON connection at the sender side. Other queue disciplines may be imp..." alt="" coords="5,155,153,181"/>
+</map>

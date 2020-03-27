@@ -1,0 +1,4 @@
+<map id="ns3::XgponNetDevice" name="ns3::XgponNetDevice">
+<area shape="rect" id="node2" href="$classns3_1_1_pon_net_device.html" title="The PON net device. It is the main class that interacts with upper layers and the optical distributio..." alt="" coords="5,81,141,108"/>
+<area shape="rect" id="node4" href="$classns3_1_1_xgpon_net_device_statistics.html" title="ns3::XgponNetDeviceStatistics" alt="" coords="165,81,371,108"/>
+</map>

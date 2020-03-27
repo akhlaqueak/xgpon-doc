@@ -1,0 +1,4 @@
+<map id="ns3::XgponOltConnManagerSpeed" name="ns3::XgponOltConnManagerSpeed">
+<area shape="rect" id="node2" href="$classns3_1_1_xgpon_olt_conn_manager.html" title="The class used to manage ONUs&#39; downstream and upstream connections at OLT side. It&#39;s one abstract cla..." alt="" coords="5,155,192,181"/>
+<area shape="rect" id="node3" href="$classns3_1_1_xgpon_olt_engine.html" title="one parent class for all engines of XgponOltNetDevice. It mainly holds one pointer to the network dev..." alt="" coords="26,80,171,107"/>
+</map>

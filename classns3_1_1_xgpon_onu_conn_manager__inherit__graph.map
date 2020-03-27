@@ -1,0 +1,5 @@
+<map id="ns3::XgponOnuConnManager" name="ns3::XgponOnuConnManager">
+<area shape="rect" id="node4" href="$classns3_1_1_xgpon_onu_conn_manager_flexible.html" title="The class instantiates XgponOnuConnManager. It does not impose any relationship between alloc&#45;id..." alt="" coords="5,229,199,271"/>
+<area shape="rect" id="node5" href="$classns3_1_1_xgpon_onu_conn_manager_speed.html" title="The class instantiates XgponOnuConnManager. It does impose several relationship between alloc&#45;id..." alt="" coords="223,229,416,271"/>
+<area shape="rect" id="node2" href="$classns3_1_1_xgpon_onu_engine.html" title="one parent class for all engines of XgponOnuNetDevice. It mainly holds one pointer to the network dev..." alt="" coords="134,80,286,107"/>
+</map>

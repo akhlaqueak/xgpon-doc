@@ -1,0 +1,4 @@
+<map id="ns3::XgponOnuConnManagerSpeed" name="ns3::XgponOnuConnManagerSpeed">
+<area shape="rect" id="node2" href="$classns3_1_1_xgpon_onu_conn_manager.html" title="The class used to manage the downstream and upstream connections (T&#45;CONT) at ONU side. It&#39;s one abstract class and there are subclasses designed for flexibility or speed. " alt="" coords="5,155,199,181"/>
+<area shape="rect" id="node3" href="$classns3_1_1_xgpon_onu_engine.html" title="one parent class for all engines of XgponOnuNetDevice. It mainly holds one pointer to the network dev..." alt="" coords="26,80,178,107"/>
+</map>

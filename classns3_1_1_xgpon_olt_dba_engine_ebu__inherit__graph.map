@@ -1,0 +1,4 @@
+<map id="ns3::XgponOltDbaEngineEbu" name="ns3::XgponOltDbaEngineEbu">
+<area shape="rect" id="node2" href="$classns3_1_1_xgpon_olt_dba_engine.html" title="The class used to instantiate DBA functions of XG&#45;PON at OLT side. It is responsible to interpret que..." alt="" coords="17,155,186,181"/>
+<area shape="rect" id="node3" href="$classns3_1_1_xgpon_olt_engine.html" title="one parent class for all engines of XgponOltNetDevice. It mainly holds one pointer to the network dev..." alt="" coords="29,80,174,107"/>
+</map>

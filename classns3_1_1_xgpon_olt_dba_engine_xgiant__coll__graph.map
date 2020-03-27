@@ -1,0 +1,5 @@
+<map id="ns3::XgponOltDbaEngineXgiant" name="ns3::XgponOltDbaEngineXgiant">
+<area shape="rect" id="node2" href="$classns3_1_1_xgpon_olt_dba_engine.html" title="The class used to instantiate DBA functions of XG&#45;PON at OLT side. It is responsible to interpret que..." alt="" coords="128,171,297,197"/>
+<area shape="rect" id="node3" href="$classns3_1_1_xgpon_olt_engine.html" title="one parent class for all engines of XgponOltNetDevice. It mainly holds one pointer to the network dev..." alt="" coords="5,81,151,108"/>
+<area shape="rect" id="node5" href="$classns3_1_1_xgpon_olt_dba_bursts.html" title="The class used to maintain the bursts for producing BWMAP. Note that one onu may have multiple bursts..." alt="" coords="175,81,341,108"/>
+</map>
